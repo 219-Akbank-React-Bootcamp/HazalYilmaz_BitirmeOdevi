@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Kanban Board
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies Used in the Project
+   - Axios
+   - Mui
+   - React Beautiful Dnd
+   - React Redux
+   - React Router
+   - Styled Components
+   - Bootstrap
+   - Google Fonts
+
+## Screenshots
+
+![ss1](https://user-images.githubusercontent.com/88984994/197024540-c1acb7c5-ae75-48c2-9d67-667c8a48fd16.jpg)
+
+![ss2](https://user-images.githubusercontent.com/88984994/197024588-3c0409e7-42a7-4224-a781-0ade371e4bad.jpg)
 
 ## Available Scripts
 
